@@ -1,4 +1,6 @@
 # matmul-avx
+Course project for [UCSD CSE 260 - Winter 2019](https://sites.google.com/eng.ucsd.edu/cse260-winter-2019/assignments/assignment-1) in collaboration with [@Jun0413](https://github.com/Jun0413).
+
 This implements matrix multiplication with AVX instruction and cache blocking.
 
 Below is the performance of this code. On the same machine, OpenBLAS achieves roughly 30Gflop/s.
